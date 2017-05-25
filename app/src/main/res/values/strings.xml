@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="id">Id</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teledono</string>
+    <string name="correo">Correo</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="borrar">Borrar</string>
+    <string name="buscar">Buscar</string>
+</resources>
